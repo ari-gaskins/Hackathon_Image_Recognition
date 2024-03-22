@@ -1,0 +1,4 @@
+Flask==2.1.0
+requests==2.24.0
+google-cloud-aiplatform~=0.5.1
+tensorflow-cpu~=2.8.0
